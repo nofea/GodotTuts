@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  godotcont:
+    image: ghcr.io/nofea/godottuts
+    build: 
+      context: .
+      dockerfile: dockerfile
+    volumes:
+      - .:/home/dev
+      

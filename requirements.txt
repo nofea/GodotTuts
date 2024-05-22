@@ -1,0 +1,1 @@
+g++ doxygen cppcheck make python3-full
