@@ -12,4 +12,4 @@ RUN python3 -m venv dev
 
 RUN chmod +x /godottuts/start_dev_env.sh
 
-ENTRYPOINT [ "/godottuts/start_dev_env.sh" ]
+CMD [ "/godottuts/start_dev_env.sh" ]
