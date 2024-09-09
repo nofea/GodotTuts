@@ -1,0 +1,4 @@
+# Ignore the following for git operations
+
+.vscode/
+.vs/

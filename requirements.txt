@@ -2,6 +2,7 @@ g++ \
 doxygen \
 cppcheck \
 make \
+cmake \
 python3-full \
 pkg-config \
 libx11-dev \
