@@ -7,7 +7,6 @@ services:
       dockerfile: dockerfile
     volumes:
       - .:/home/dev
-    tty: true
     stdin_open: true
-    command: tail -F anything
+    tty: true
     

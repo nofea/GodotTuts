@@ -1,18 +1,1 @@
-g++ \
-doxygen \
-cppcheck \
-make \
-cmake \
-python3-full \
-pkg-config \
-libx11-dev \
-libxcursor-dev \
-libxinerama-dev \
-libgl1-mesa-dev \
-libglu1-mesa-dev \
-libasound2-dev \
-libpulse-dev \
-libudev-dev \
-libxi-dev \
-libxrandr-dev \
-libwayland-dev 
+g++ doxygen cppcheck make cmake python3-full pkg-config libx11-dev libxcursor-dev libxinerama-dev libgl1-mesa-dev libglu1-mesa-dev libasound2-dev libpulse-dev libudev-dev libxi-dev libxrandr-dev libwayland-dev 
